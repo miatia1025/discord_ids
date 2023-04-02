@@ -1,0 +1,11 @@
+/.env
+/.notebook.ipynb
+/.gitignore
+
+/conda
+/mamba
+/venv
+/CLI
+/node_modules
+/Viewer
+/index.js
